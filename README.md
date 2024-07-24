@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ziteng
+- 👀 I’m interested in Finance + ML
+- 🌱 I’m currently learning Applied Statistics and Datamining at St Andrews
+- 📫 How to reach me: dongzt722@163.com
