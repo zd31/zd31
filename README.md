@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Ziteng
-- 👀 I’m interested in Finance + ML
-- 📫 How to reach me: dongzt722@163.com
+- Currently I am a research student at University of Exeter.
+- I’m interested in Behavioural Eco/Fin and ML.
+- How to reach me: zd290@exeter.ac.uk or dongzt722@163.com.
