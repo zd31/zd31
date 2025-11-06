@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ziteng
 - Currently I am a research student at University of Exeter.
 - I’m interested in Behavioural Eco/Fin and ML.
-- How to reach me: zd290@exeter.ac.uk or dongzt722@163.com.
+- How to reach me: zd290[at]exeter.ac.uk or dongzt722[at]163.com.
